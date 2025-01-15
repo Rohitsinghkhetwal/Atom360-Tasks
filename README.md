@@ -54,7 +54,7 @@ It features dynamic charts, user data loading from an API, and a responsive side
 
 ## 🚀 Project Demo
 
-🎥 [Click here to watch the demo video] https://drive.google.com/file/d/1jiPtyFRZxYvoSVLMqxHin64D61wL_K0z/view?usp=drive_link
+🎥 Click here to watch the demo video = https://drive.google.com/file/d/1jiPtyFRZxYvoSVLMqxHin64D61wL_K0z/view?usp=drive_link
 
 or
 
@@ -67,7 +67,7 @@ https://drive.google.com/file/d/1jiPtyFRZxYvoSVLMqxHin64D61wL_K0z/view?usp=drive
 
 ## 🛠️ Installation
 ```sh
-git clone https://github.com/your-username/your-repo.git
+git clone repo link
 cd your-repo
 npm install
 npm run dev

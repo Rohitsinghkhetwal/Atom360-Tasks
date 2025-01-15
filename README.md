@@ -47,4 +47,27 @@ export default tseslint.config({
     ...react.configs['jsx-runtime'].rules,
   },
 })
-```
+# Soft UI Dashboard
+
+This is a functional dashboard built using (https://github.com/creativetimofficial/soft-ui-dashboard).  
+It features dynamic charts, user data loading from an API, and a responsive sidebar.
+
+## 🚀 Project Demo
+
+🎥 [Click here to watch the demo video] https://drive.google.com/file/d/1jiPtyFRZxYvoSVLMqxHin64D61wL_K0z/view?usp=drive_link
+
+or
+
+https://drive.google.com/file/d/1jiPtyFRZxYvoSVLMqxHin64D61wL_K0z/view?usp=drive_link
+
+## 📂 Features
+- 📊 Dynamic charts using Chart.js
+- 🧑‍💻 API-based user data fetching
+- 🎨 Beautiful UI with Tailwind CSS
+
+## 🛠️ Installation
+```sh
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+npm install
+npm run dev
